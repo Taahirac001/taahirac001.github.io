@@ -21,7 +21,7 @@ const projects = [
       "Kiro",
     ],
     isPrivate: false,
-    link: "https://namiflow.ai/landing",
+    link: "https://www.namiflow.ai/landing",
     highlights: [
       "Reasoning-driven investigation workflows",
       "Human-in-the-loop governance controls",

@@ -25,7 +25,7 @@ const projects = [
     ],
     isPrivate: false,
     category: "Applied AI",
-    githubUrl: "https://namiflow.ai/landing",
+    githubUrl: "https://www.namiflow.ai/landing",
     highlights: [
       "Supports issue investigation, workflow continuity, escalation management, and operational decision support",
       "Reasoning-driven workflows that surface relevant tools, recommend next actions, and maintain context throughout the issue lifecycle",
@@ -138,7 +138,7 @@ export default function ProjectsPage() {
               <strong className="text-zinc-300">NamiFlow</strong> is my personal
               AI platform launching at{" "}
               <a
-                href="https://namiflow.ai/landing"
+                href="https://www.namiflow.ai/landing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-emerald-400 hover:underline"
