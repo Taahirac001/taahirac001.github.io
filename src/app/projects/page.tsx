@@ -12,7 +12,7 @@ const projects = [
   {
     title: "NamiFlow",
     description:
-      "AI-assisted operational investigation and workflow orchestration platform designed to guide work across Operations, Production Support, and Development teams. Personal project deploying to production at NamiFlow.ai.",
+      "AI-assisted operational investigation and workflow orchestration platform designed to guide work across Operations, Production Support, and Development teams. Personal project live in production at NamiFlow.ai since July 2026.",
     tags: [
       "AI Workflow Orchestration",
       "AWS Bedrock",
@@ -85,7 +85,7 @@ const projects = [
       "Next.js parent/teacher dashboard with shadcn/ui and Tailwind",
       "Expo React Native mobile app for kids",
       "Built with Cursor and ChatGPT to accelerate development",
-      "On hold — prioritizing NamiFlow launch",
+      "On hold while NamiFlow is in production",
     ],
   },
   {
@@ -99,7 +99,7 @@ const projects = [
       "Flask API backend serving property evaluation endpoints",
       "Next.js 14 frontend with React 18 UI",
       "Mock data layer for development without external API dependencies",
-      "On hold — prioritizing NamiFlow launch",
+      "On hold while NamiFlow is in production",
     ],
   },
 ];
@@ -136,7 +136,7 @@ export default function ProjectsPage() {
             <p className="text-sm text-zinc-400">
               <span className="text-emerald-400 font-medium">Note:</span>{" "}
               <strong className="text-zinc-300">NamiFlow</strong> is my personal
-              AI platform launching at{" "}
+              AI platform, live in production since July 2026 at{" "}
               <a
                 href="https://www.namiflow.ai/landing"
                 target="_blank"

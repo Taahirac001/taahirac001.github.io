@@ -4,18 +4,25 @@ import { AnimatedSection } from "./AnimatedSection";
 
 const milestones = [
   {
-    year: "2025",
-    title: "Launching NamiFlow.ai",
-    org: "Personal Project",
+    year: "2026",
+    title: "Senior Production Support Engineer",
+    org: "ConnectiveRx",
     description:
-      "Deploying NamiFlow — an AI-assisted operational platform — to production. Built the architecture, agentic workflows, and governance model independently.",
+      "Promoted in July 2026. Expanded ownership of team training, SOPs and runbooks, and internal tooling built with Kiro.",
   },
   {
-    year: "2019–Present",
+    year: "July 2026",
+    title: "NamiFlow.ai",
+    org: "Personal Project",
+    description:
+      "Deployed NamiFlow to production on July 3–4, 2026 — domain, App Runner, and marketing site. Built the architecture, agentic workflows, and governance model independently.",
+  },
+  {
+    year: "2019–2026",
     title: "Production Support Engineer",
     org: "ConnectiveRx",
     description:
-      "Investigate and resolve complex production issues. Built PSA — an internal AI-assisted operational platform. Presented to 35-person C-suite audience.",
+      "Investigated and resolved complex production issues. Built PSA, an internal AI-assisted support application, and presented it to a 35-person C-suite audience.",
   },
   {
     year: "2017–2019",

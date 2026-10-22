@@ -21,6 +21,10 @@ const categories = [
     skills: [
       "Root Cause Analysis",
       "Incident Investigation",
+      "Ticket Ownership",
+      "Team Training",
+      "SOPs & Runbooks",
+      "Operational Reporting",
       "SQL",
       "API Debugging",
       "Cross-Functional Collaboration",
@@ -51,6 +55,7 @@ const categories = [
       "Git",
       "GitHub",
       "Jira",
+      "Confluence",
       "Platform Design",
       "Operational Automation",
     ],

@@ -9,7 +9,7 @@ const projects = [
   {
     title: "NamiFlow",
     description:
-      "AI-assisted operational investigation and workflow orchestration platform designed to guide work across Operations, Production Support, and Development teams. Launching at NamiFlow.ai.",
+      "AI-assisted operational investigation and workflow orchestration platform designed to guide work across Operations, Production Support, and Development teams. Live at NamiFlow.ai since July 2026.",
     tags: [
       "AI Workflow Orchestration",
       "AWS Bedrock",
@@ -26,7 +26,7 @@ const projects = [
       "Reasoning-driven investigation workflows",
       "Human-in-the-loop governance controls",
       "Escalation management & decision support",
-      "Deploying to production — live at NamiFlow.ai",
+      "Deployed to production in July 2026 — live at NamiFlow.ai",
     ],
   },
   {

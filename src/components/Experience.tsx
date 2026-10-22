@@ -4,17 +4,28 @@ import { AnimatedSection } from "./AnimatedSection";
 
 const experience = [
   {
+    role: "Senior Production Support Engineer",
+    company: "ConnectiveRx",
+    period: "July 2026 – Present",
+    bullets: [
+      "Continue core production-support work with expanded ownership of team training and internal tooling.",
+      "Train teammates through incident walkthroughs, shadowing, troubleshooting sessions, SOPs, and runbooks, with emphasis on critical thinking and effective use of Kiro.",
+      "Build internal tools with Kiro for bulk-file processing, usage analytics and audit trails, knowledge-base consolidation, and matching similar tickets to resolution tools.",
+      "Own production support tickets through closure, using SQL, API troubleshooting, and root cause analysis with cross-functional teams.",
+    ],
+  },
+  {
     role: "Production Support Engineer",
     company: "ConnectiveRx",
-    period: "2019 – Present",
+    period: "2019 – July 2026",
     bullets: [
-      "Investigate and resolve complex production issues through debugging, root cause analysis, SQL investigation, API troubleshooting, and cross-functional collaboration.",
-      "Analyze AWS services including CloudWatch, DynamoDB, Lambda, and S3 to support operational troubleshooting and service reliability.",
+      "Investigated and resolved complex production issues through debugging, root cause analysis, SQL investigation, API troubleshooting, and cross-functional collaboration.",
+      "Analyzed AWS services including CloudWatch, DynamoDB, Lambda, and S3 to support operational troubleshooting and service reliability.",
       "Designed and built PSA — an internal AI-assisted operational platform focused on workflow orchestration, operational reasoning, investigation support, and enterprise troubleshooting workflows.",
-      "Leveraged Kiro and Copilot to accelerate development of AI-assisted workflows, operational tooling, Microsoft SSO authentication, and investigation automation.",
-      "Developed operational tooling concepts spanning investigation workflows, confidence modeling, tool discovery, escalation management, and AI-assisted decision support.",
-      "Presented platform capabilities to a 35-person executive audience spanning the full C-suite (CEO, CTO, COO, CPO, CCO, CISO).",
-      "Provide knowledge transfer, team training, and operational guidance to support onboarding and continuous improvement.",
+      "Used Kiro and Copilot to accelerate development of AI-assisted workflows, operational tooling, Microsoft SSO authentication, and investigation automation.",
+      "Developed operational tooling spanning investigation workflows, confidence modeling, tool discovery, escalation management, and AI-assisted decision support.",
+      "Built an operational reporting layer covering investigation trends, incident types, resolution times, and team usage.",
+      "Selected for a CTO-sponsored premium support initiative and presented platform capabilities to a 35-person executive audience spanning the full C-suite (CEO, CTO, COO, CPO, CCO, CISO).",
     ],
   },
   {

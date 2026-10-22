@@ -16,17 +16,17 @@ export default function AboutPage() {
             About <span className="gradient-text">Me</span>
           </h1>
           <p className="text-lg text-zinc-400 leading-relaxed mb-4">
-            Applied AI systems builder and Production Support Engineer with 6+
-            years of experience solving complex operational problems through
-            investigation, workflow design, automation, and cross-functional
-            collaboration.
+            Applied AI systems builder with 6+ years in production support at
+            ConnectiveRx. I joined as a Production Support Engineer in 2019 and
+            was promoted to Senior Production Support Engineer in July 2026,
+            with expanded ownership of team training and internal tooling.
           </p>
           <p className="text-zinc-400 leading-relaxed mb-4">
-            I specialize in designing AI-assisted operational platforms that
-            connect teams, systems, and workflows across the incident lifecycle.
-            I identify organizational bottlenecks, translate business needs into
-            technical solutions, and leverage AI to improve operational
-            efficiency, investigation quality, and decision-making.
+            I train teammates through incident walkthroughs, shadowing, and
+            runbooks, and I design AI-assisted tools that support investigation,
+            reporting, and ticket resolution. I translate operational gaps into
+            technical solutions that improve investigation quality and how the
+            team works.
           </p>
           <p className="text-zinc-400 leading-relaxed">
             I combine deep production-support expertise with hands-on experience

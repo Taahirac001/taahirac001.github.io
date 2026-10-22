@@ -15,11 +15,12 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Taahira Carter | Applied AI & Production Support Engineer",
+  title: "Taahira Carter | Applied AI & Senior Production Support Engineer",
   description:
-    "Applied AI systems builder and Production Support Engineer. Building AI-powered operational platforms that connect teams, systems, and workflows.",
+    "Production Support Engineer promoted to Senior Production Support Engineer. Building AI-assisted internal tools, investigation workflows, and operational reporting.",
   keywords: [
     "AI",
+    "Senior Production Support",
     "Production Support",
     "Workflow Orchestration",
     "AWS",

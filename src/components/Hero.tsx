@@ -54,10 +54,10 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto mb-8 leading-relaxed"
         >
-          Applied AI systems builder and Production Support Engineer with 6+ years
-          of experience solving complex operational problems. I design AI-assisted
-          platforms that connect teams, systems, and workflows across the incident
-          lifecycle.
+          Applied AI systems builder at ConnectiveRx. Production Support
+          Engineer since 2019, promoted to Senior Production Support Engineer
+          in July 2026. I build AI-assisted internal tools and train teams on
+          investigation workflows across the incident lifecycle.
         </motion.p>
 
         <motion.div
