@@ -80,7 +80,7 @@ export function Hero() {
             </Link>
           ))}
           <Link
-            href="/Taahira_Carter_Resume.pdf"
+            href="/Taahira_Carter_Resume.pdf?v=20261022"
             className="flex items-center gap-2 px-4 py-2 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white transition-colors duration-200 text-sm font-medium"
           >
             <FileText size={16} />
